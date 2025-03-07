@@ -73,4 +73,4 @@
 
 Лицензия
 
-Проект распространяется по лицензии MIT. См. [LICENSE](LICENSE) для подробностей.
+Проект распространяется по лицензии MIT. См. [LICENSE](https://github.com/anna-zam/Mass_text_API_text_ru/blob/main/LICENSE) для подробностей.
