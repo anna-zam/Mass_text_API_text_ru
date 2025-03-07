@@ -1,0 +1,23 @@
+# Операционные файлы
+.DS_Store
+Thumbs.db
+
+# PyCharm файлы
+.idea/
+
+# Виртуальное окружение
+venv/
+.env
+.venv/
+
+# Компилированные файлы Python
+*.pyc
+__pycache__/
+
+# Лог-файлы и кеши
+*.log
+*.sqlite3
+
+# API-ключи, конфиги
+config.ini
+.env
